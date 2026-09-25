@@ -16,8 +16,8 @@ Klik badge ini lalu tinggal ikuti sel-selnya (upload file input → jalankan →
 ## 2. Cara manual (PC sendiri, Windows/PowerShell)
 
 ```powershell
-git clone https://github.com/<ORG>/<REPO>.git
-cd <REPO>
+git clone https://github.com/fanindhitasan/Cek-ETLE
+cd <Cek-ETLE>
 py -m pip install -r requirements.txt
 py etle_detail_otomatis.py --input "master_kendaraan.xlsx" --sheet 0
 ```
