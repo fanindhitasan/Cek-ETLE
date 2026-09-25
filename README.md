@@ -1,4 +1,4 @@
-# ETLE Checker — Bluebird
+# ETLE Checker
 
 Cek massal status ETLE (tilang elektronik) untuk daftar kendaraan, lewat `etle-pmj.id`.
 Hasil: satu file Excel dengan 2 sheet — **Rekap Kendaraan** (ringkasan per kendaraan)
