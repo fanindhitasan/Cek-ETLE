@@ -9,7 +9,7 @@ ke halaman aslinya kalau tersedia).
 
 Klik badge ini lalu tinggal ikuti sel-selnya (upload file input → jalankan → download hasil):
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<ORG>/<REPO>/blob/main/run_etle_check.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fanindhitasan/Cek-ETLE/blob/main/run_etle_check.ipynb)
 
 > Ganti `<ORG>/<REPO>` di atas dengan nama org/repo GitHub setelah repo ini dibuat (lihat langkah deploy di chat).
 
